@@ -289,9 +289,6 @@ The issue descriptions after applying the data-cleaning process.
 
 <img width="566" height="280" alt="image" src="https://github.com/user-attachments/assets/b6aa4a25-fa55-4ec6-94cf-6d1d7ca43e41" />
 
-<img width="549" height="271" alt="image" src="https://github.com/user-attachments/assets/48d3d1ce-1837-4c53-81bf-57a8f335c29e" />
-
-<img width="549" height="271" alt="image" src="https://github.com/user-attachments/assets/b881ba8d-dfe3-4d2a-b313-4f4717ac7f96" />
 
 <img width="565" height="199" alt="image" src="https://github.com/user-attachments/assets/b39053cf-7241-41e3-924c-57ae70aad29b" />
 
