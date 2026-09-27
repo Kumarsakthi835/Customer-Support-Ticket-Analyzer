@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Customer Support Ticket Analyzer** is a Python-based data analysis project developed as part of the **Data Analytics (DA) Module-End 4 Python Assignment**.
+The **Customer Support Ticket Analyzer** is a Python-based data analysis project developed as part of the **Data Analytics **.
 
 The project focuses on managing, cleaning, and analyzing customer support ticket data using Python. It demonstrates practical implementation of dictionaries, lists, loops, functions, conditional statements, string manipulation, sets, sorting, and basic data analysis techniques.
 
@@ -244,6 +244,9 @@ The initial dataset containing the 10 preloaded customer support tickets.
 
 <img width="656" height="285" alt="image" src="https://github.com/user-attachments/assets/d6253335-6c38-4056-84f4-05824d05d354" />
 
+<img width="848" height="200" alt="image" src="https://github.com/user-attachments/assets/bbd82fd6-de75-4602-8f57-54cbb2fc61f0" />
+
+
 
 ---
 
@@ -262,6 +265,9 @@ New customer tickets are added and the priority input is validated.
 
 <img width="547" height="262" alt="image" src="https://github.com/user-attachments/assets/f1c73365-e25a-410a-a6d3-e6dc2a9f86bc" />
 
+<img width="551" height="274" alt="image" src="https://github.com/user-attachments/assets/6bb8ffa8-08a6-4fe4-b8a0-cfa1f7f6f68b" />
+
+
 
 ---
 
@@ -270,6 +276,9 @@ New customer tickets are added and the priority input is validated.
 The ticket dataset after adding the new customer support tickets.
 
 <img width="597" height="146" alt="image" src="https://github.com/user-attachments/assets/47e3e433-3a78-4106-9234-50a0a764f9fb" />
+
+<img width="592" height="193" alt="image" src="https://github.com/user-attachments/assets/b5ad182d-a2a5-4a27-a5b2-c980069cdcdd" />
+
 
 
 ---
@@ -306,7 +315,8 @@ The final cleaned dataset containing all 13 tickets.
 
 <img width="580" height="283" alt="image" src="https://github.com/user-attachments/assets/d3d4fa7a-f013-488d-a01e-750bb1e9db64" />
 
----
+<img width="689" height="84" alt="image" src="https://github.com/user-attachments/assets/a7065ec2-1e01-4470-ac5c-5820c0426652" />
+
 
 ## 8. Priority Analysis
 
@@ -324,8 +334,9 @@ The ticket with the longest issue description based on word count.
 
 <img width="581" height="227" alt="image" src="https://github.com/user-attachments/assets/111b704c-fe75-48db-8d8d-d9dc3931b07c" />
 
+<img width="389" height="193" alt="image" src="https://github.com/user-attachments/assets/23a2ae3a-04dc-4bcf-b7d1-5502f42a5416" />
 
----
+
 
 ## 10. Unique Word Analysis
 
@@ -349,34 +360,6 @@ The final consolidated customer support ticket analysis.
 
 ---
 
-# 📁 Project Structure
-
-The GitHub repository is organized as follows:
-
-```text
-Customer-Support-Ticket-Analyzer/
-│
-├── Python_Assignment_4_Customer_Support_Ticket_Analyzer.ipynb
-│
-├── Customer_Support_Ticket_Analysis_Summary.docx
-│
-├── README.md
-│
-└── Screenshots/
-    ├── 01_Preloaded_Ticket_Data.png
-    ├── 02_Readable_Initial_Tickets.png
-    ├── 03_Add_New_Tickets_Validation.png
-    ├── 04_Updated_Ticket_Data.png
-    ├── 05_Cleaned_Issue_Descriptions.png
-    ├── 06_Keyword_Based_Ticket_Analysis.png
-    ├── 07_Final_Cleaned_Ticket_Data.png
-    ├── 08_Priority_Analysis.png
-    ├── 09_Longest_Issue_Description.png
-    ├── 10_Unique_Word_Analysis.png
-    └── 11_Final_Analysis_Report.png
-```
-
----
 
 # 📈 Final Project Results
 
